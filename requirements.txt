@@ -1,0 +1,3 @@
+pywin32==301
+requests==2.25.1
+pycryptodome==3.12.0
